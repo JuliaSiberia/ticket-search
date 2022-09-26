@@ -10,6 +10,7 @@ public class RepositoryTest {
     Ticket ticket3 = new Ticket(56, 13000, "KUF", "GOJ", 195);
     Ticket ticket4 = new Ticket(97, 26000, "SVO", "OGZ", 420);
     Ticket ticket5 = new Ticket(101, 18000, "LED", "FRU", 240);
+    Ticket ticket6 = new Ticket(21, 6000, "SVO", "KZN", 180);
 
     @Test
 
